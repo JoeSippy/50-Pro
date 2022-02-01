@@ -1,0 +1,42 @@
+h1 {
+    color: rgb(0, 0, 0);
+   
+    background-color: rgb(0, 255, 72);
+}
+
+body {
+    background-color: rgb(255, 247, 0);
+}
+
+img {
+    border: 5px solid rgb(0, 255, 72);
+    border-radius: 40px;
+}
+body{
+background-color: rgb(0, 255, 72);
+}
+p {
+   
+    font-family: comic sans ms;
+    font-weight: italic;
+}
+.header{
+    background-color: rgb(0, 255, 72);
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    padding: 30px;
+display: flex;
+justify-content: space-evenly;
+
+}
+.item{
+    height: 400px;
+    border-radius: 35px;
+    background-color: rgb(255, 0, 76);
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    text-align: center;
+}
